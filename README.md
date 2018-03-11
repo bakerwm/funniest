@@ -1,10 +1,20 @@
 # Funniest
 
 
-To use (with caution), simply do
+## Installation
 
 ```
->>> import funniest
->>> print funniest.joke()
+git clone https://github.com/bakerwm/funniest.git
+cd funniest
+python setup.py install
 ```
+
+## Usage
+
+This is the command:
+
+```
+funniest-joke
+```
+
 
